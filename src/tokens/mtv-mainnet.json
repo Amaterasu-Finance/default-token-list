@@ -1,0 +1,66 @@
+[
+  {
+    "chainId": 62621,
+    "address": "0x4c4A5d20f1ee40eaacB6A7787d20D16b7997363B",
+    "symbol": "WMTV",
+    "name": "Wrapped MTV",
+    "decimals": 18,
+    "logoURI": "https://mtv.moonswap.tech/images/tokens/WMTV.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x61731352D253D5c6b4f947fE53CE8Ba3Bc7BffC0",
+    "symbol": "tETH",
+    "name": "Test ETH",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ETH.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x27e2714bAf8054Fbbb12CeABD9f1CBdCB058BBaa",
+    "symbol": "tUSDC",
+    "name": "Test USD Coin",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDC.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0xABa23C1FE2161929e3cC7EA0Ab44BFf0Fa180752",
+    "symbol": "tFTM",
+    "name": "Test FTM",
+    "decimals": 18,
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FFTM.png?alt=media"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x3DC47E4573e695Bd26876a8AD070490ef18f9F48",
+    "symbol": "tMIM",
+    "name": "Test MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0xD7d425128e309a37E8470eed1ba00687DF081975",
+    "symbol": "tONE",
+    "name": "Test ONE",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ONE.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0xd68266c32213dD65458a4e56A4f95780204c6612",
+    "symbol": "IZA",
+    "name": "Izanagi Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/default-token-list/main/amaterasu.jpg"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x22B07F68F3351607B4978e865A54e6BEF5427594",
+    "symbol": "xIZA",
+    "name": "Staked Izanagi",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/default-token-list/main/amaterasu.jpg"
+  }
+]
