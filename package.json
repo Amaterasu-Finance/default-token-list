@@ -1,6 +1,6 @@
 {
   "name": "@amaterasu-fi/default-token-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "◦ The Amaterasu Finance default token list",
   "main": "build/amaterasu-default.tokenlist.json",
   "scripts": {
@@ -72,7 +72,6 @@
     "find-up": "^5.0.0",
     "flat": "^5.0.2",
     "fs.realpath": "^1.0.0",
-    "fsevents": "^2.3.2",
     "get-caller-file": "^2.0.5",
     "get-func-name": "^2.0.0",
     "glob": "^7.1.6",
