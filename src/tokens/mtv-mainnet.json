@@ -53,7 +53,7 @@
     "symbol": "IZA",
     "name": "Izanagi Token",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/default-token-list/main/amaterasu.jpg"
+    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/amaterasu-finance-mediakit/main/Amaterasu%20Finance%20logos/IZANAGI%20Logos/Izanagi%20light%20blue%20-%20transparent.png"
   },
   {
     "chainId": 62621,
@@ -61,6 +61,6 @@
     "symbol": "xIZA",
     "name": "Staked Izanagi",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/default-token-list/main/amaterasu.jpg"
+    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/amaterasu-finance-mediakit/main/Amaterasu%20Finance%20logos/IZANAGI%20Logos/Izanagi%20purple%20-%20transparent.png"
   }
 ]
