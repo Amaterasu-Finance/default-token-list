@@ -49,7 +49,7 @@
   },
   {
     "chainId": 62621,
-    "address": "0x035Dd65CDf6b77741Cc1D7d033d3e07c9B5558dD",
+    "address": "0xc7519EAD350Fc778C5fBd75049Ec9D587EA25E74",
     "symbol": "IZA",
     "name": "Izanagi Token",
     "decimals": 18,
@@ -57,7 +57,7 @@
   },
   {
     "chainId": 62621,
-    "address": "0xd9c29b7b88E4Dd1F01580D1E3115270d7045F47B",
+    "address": "0x720d3082a4F27D940C1a3f45c5AD3BF7221aF1AA",
     "symbol": "xIZA",
     "name": "Staked Izanagi",
     "decimals": 18,
