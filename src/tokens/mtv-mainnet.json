@@ -7,6 +7,89 @@
     "decimals": 18,
     "logoURI": "https://mtv.moonswap.tech/images/tokens/WMTV.png"
   },
+
+  {
+    "chainId": 62621,
+    "address": "0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDC.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x3b6e35574Fe60D7CeB9CA70DcA56D7294EF28926",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ETH.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x175E9B026cf31fbE181628C9BDAb3DF6143b6F18",
+    "symbol": "AVAX",
+    "name": "Avalanche Token",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/avax.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x2f9c74d3C42023C533437c9EE743D4a6329e78Df",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://amaterasu.finance/images/token-list/usdt.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x25009A734EfFE43cf7609Bc313E987d7ee8ee346",
+    "symbol": "BNB",
+    "name": "Binance Token",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/bnb.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x91c57B70EcD17DB27d22EaD74Cc86781936115E7",
+    "symbol": "MOVR",
+    "name": "Moonriver Token",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/movr.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x185B1FF9878D27DdE302A511FC2f80765232ADB7",
+    "symbol": "MATIC",
+    "name": "Matic Token",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/matic.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x67558D91654A6ccbe88a3cc4e1DB862BC51fc322",
+    "symbol": "FTM",
+    "name": "Fantom Token",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/ftm.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x282A0c6a96747bfF4BAa80eBa6CE6744aafaBEbB",
+    "symbol": "CRO",
+    "name": "Wrapped CRO",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/cro.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x4E51774CB9704109f6Ff8F9a9DfFd8fAF823C38f",
+    "symbol": "ONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/one.png"
+  },
+
+
   {
     "chainId": 62621,
     "address": "0x61731352D253D5c6b4f947fE53CE8Ba3Bc7BffC0",
