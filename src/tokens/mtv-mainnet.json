@@ -1,11 +1,27 @@
 [
   {
     "chainId": 62621,
-    "address": "0x4c4A5d20f1ee40eaacB6A7787d20D16b7997363B",
+    "address": "0x8E321596267a4727746b2F48BC8736DB5Da26977",
     "symbol": "WMTV",
     "name": "Wrapped MTV",
     "decimals": 18,
-    "logoURI": "https://mtv.moonswap.tech/images/tokens/WMTV.png"
+    "logoURI": "https://www.amaterasu.finance/images/token-list/wmtv.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x045d0bc9E3cFF68fAeB3a9285239B4c095Dd2cdd",
+    "symbol": "IZA",
+    "name": "Izanagi Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/amaterasu-finance-mediakit/main/Amaterasu%20Finance%20logos/IZANAGI%20Logos/Izanagi%20light%20blue%20-%20transparent.png"
+  },
+  {
+    "chainId": 62621,
+    "address": "0x214C6dA089B3fdA57d39a8E1bFF01ef27a4C62FA",
+    "symbol": "xIZA",
+    "name": "Staked Izanagi",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/amaterasu-finance-mediakit/main/Amaterasu%20Finance%20logos/IZANAGI%20Logos/Izanagi%20purple%20-%20transparent.png"
   },
 
   {
@@ -34,11 +50,19 @@
   },
   {
     "chainId": 62621,
+    "address": "0xCd65eb7630e5A2C46E1b99c0F3a45611be4960B2",
+    "symbol": "BUSD",
+    "name": "BUSD Token",
+    "decimals": 18,
+    "logoURI": "https://amaterasu.finance/images/token-list/busd.png"
+  },
+  {
+    "chainId": 62621,
     "address": "0x2f9c74d3C42023C533437c9EE743D4a6329e78Df",
     "symbol": "USDT",
     "name": "Tether USD",
     "decimals": 6,
-    "logoURI": "https://amaterasu.finance/images/token-list/usdt.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDT.png"
   },
   {
     "chainId": 62621,
@@ -89,61 +113,12 @@
     "logoURI": "https://amaterasu.finance/images/token-list/one.png"
   },
 
-
   {
     "chainId": 62621,
-    "address": "0x61731352D253D5c6b4f947fE53CE8Ba3Bc7BffC0",
-    "symbol": "tETH",
-    "name": "Test ETH",
+    "address": "0x2eb19db032dc60039d35e36918d33197d9f7d7b9",
+    "symbol": "DIRT",
+    "name": "Dirt Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ETH.png"
-  },
-  {
-    "chainId": 62621,
-    "address": "0x27e2714bAf8054Fbbb12CeABD9f1CBdCB058BBaa",
-    "symbol": "tUSDC",
-    "name": "Test USD Coin",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDC.png"
-  },
-  {
-    "chainId": 62621,
-    "address": "0xABa23C1FE2161929e3cC7EA0Ab44BFf0Fa180752",
-    "symbol": "tFTM",
-    "name": "Test FTM",
-    "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FFTM.png?alt=media"
-  },
-  {
-    "chainId": 62621,
-    "address": "0x3DC47E4573e695Bd26876a8AD070490ef18f9F48",
-    "symbol": "tMIM",
-    "name": "Test MIM",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
-  },
-  {
-    "chainId": 62621,
-    "address": "0xD7d425128e309a37E8470eed1ba00687DF081975",
-    "symbol": "tONE",
-    "name": "Test ONE",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ONE.png"
-  },
-  {
-    "chainId": 62621,
-    "address": "0xD0D6BcC9646192e18Ff7Da85aa0480142cc4E1aD",
-    "symbol": "IZA",
-    "name": "Izanagi Token",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/amaterasu-finance-mediakit/main/Amaterasu%20Finance%20logos/IZANAGI%20Logos/Izanagi%20light%20blue%20-%20transparent.png"
-  },
-  {
-    "chainId": 62621,
-    "address": "0x1BC50a63F7168D28C8DF77781AB378365d9e38b7",
-    "symbol": "xIZA",
-    "name": "Staked Izanagi",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Amaterasu-Finance/amaterasu-finance-mediakit/main/Amaterasu%20Finance%20logos/IZANAGI%20Logos/Izanagi%20purple%20-%20transparent.png"
+    "logoURI": "https://amaterasu.finance/images/token-list/dirt.png"
   }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "chainId": 1313161555,
+    "address": "0xABa23C1FE2161929e3cC7EA0Ab44BFf0Fa180752",
+    "symbol": "NEAR",
+    "name": "Wrapped NEAR",
+    "decimals": 24,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0x27e2714bAf8054Fbbb12CeABD9f1CBdCB058BBaa",
+    "symbol": "WETH",
+    "name": "Wrapped ETH",
+    "decimals": 18,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/eth.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0x3DC47E4573e695Bd26876a8AD070490ef18f9F48",
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 6,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/usdc.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0x61731352D253D5c6b4f947fE53CE8Ba3Bc7BffC0",
+    "symbol": "USDT",
+    "name": "USDT",
+    "decimals": 6,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/usdt.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0x886DA0840Fd919228B3Bf09c59E774EFAecd187E",
+    "symbol": "AURORA",
+    "name": "AURORA",
+    "decimals": 18,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/aurora.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0xD7d425128e309a37E8470eed1ba00687DF081975",
+    "symbol": "atUST",
+    "name": "UST",
+    "decimals": 18,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/ust.png"
+  }
+]

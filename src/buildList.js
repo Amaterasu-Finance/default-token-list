@@ -6,9 +6,8 @@ const { version } = require("../package.json");
 // const kovan = require("./tokens/kovan.json");
 // const bscMainnet = require("./tokens/bsc-mainnet.json");
 // const bscTestnet = require("./tokens/bsc-testnet.json");
-// const harmonyMainnet = require("./tokens/harmony-mainnet.json");
-// const harmonyTestnet = require("./tokens/harmony-testnet.json");
-const mtvMainnet = require("./tokens/mtv-mainnet.json");
+const auroraMainnet = require("./tokens/aurora-mainnet.json");
+const auroraTestnet = require("./tokens/aurora-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -23,7 +22,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://raw.githubusercontent.com/Amaterasu-Finance/default-token-list/main/amaterasu.jpg",
     keywords: ["amaterasu", "default"],
-    tokens: [...mtvMainnet]
+    tokens: [...auroraMainnet, ...auroraTestnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
