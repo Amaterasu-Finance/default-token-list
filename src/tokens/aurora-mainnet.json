@@ -1,19 +1,19 @@
 [
   {
     "chainId": 1313161554,
-    "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
-    "symbol": "NEAR",
-    "name": "Wrapped NEAR",
-    "decimals": 24,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
-  },
-  {
-    "chainId": 1313161554,
     "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
     "symbol": "WETH",
     "name": "Wrapped ETH",
     "decimals": 18,
     "logoURI": "https://www.amaterasu.finance/images/token-list/eth.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "symbol": "NEAR",
+    "name": "Wrapped NEAR",
+    "decimals": 24,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
   },
   {
     "chainId": 1313161554,

@@ -1,19 +1,35 @@
 [
   {
     "chainId": 1313161555,
-    "address": "0xABa23C1FE2161929e3cC7EA0Ab44BFf0Fa180752",
-    "symbol": "NEAR",
-    "name": "Wrapped NEAR",
-    "decimals": 24,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
-  },
-  {
-    "chainId": 1313161555,
     "address": "0x27e2714bAf8054Fbbb12CeABD9f1CBdCB058BBaa",
     "symbol": "WETH",
     "name": "Wrapped ETH",
     "decimals": 18,
     "logoURI": "https://www.amaterasu.finance/images/token-list/eth.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0x453cAA7644F1184BaBcF40fE991913a731a1F344",
+    "symbol": "IZA",
+    "name": "Izanagi Token",
+    "decimals": 18,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/iza.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0xcC1039a828730474E43D129B76117c5ca89d86B0",
+    "symbol": "xIZA",
+    "name": "Staked IZA",
+    "decimals": 18,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/xiza.png"
+  },
+  {
+    "chainId": 1313161555,
+    "address": "0xABa23C1FE2161929e3cC7EA0Ab44BFf0Fa180752",
+    "symbol": "NEAR",
+    "name": "Wrapped NEAR",
+    "decimals": 24,
+    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
   },
   {
     "chainId": 1313161555,
