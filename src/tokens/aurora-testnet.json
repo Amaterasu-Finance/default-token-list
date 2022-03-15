@@ -5,23 +5,23 @@
     "symbol": "WETH",
     "name": "Wrapped ETH",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/eth.png"
+    "logoURI": "images/token-list/weth.png"
   },
   {
     "chainId": 1313161555,
-    "address": "0x453cAA7644F1184BaBcF40fE991913a731a1F344",
+    "address": "0xfD8C35552377370A898d66F77Cd51333efC26EA7",
     "symbol": "IZA",
     "name": "Izanagi Token",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/iza.png"
+    "logoURI": "images/token-list/iza.png"
   },
   {
     "chainId": 1313161555,
-    "address": "0xcC1039a828730474E43D129B76117c5ca89d86B0",
+    "address": "0xDbc19eDEFf8cBAC8684cb47df48f1216e2266ebc",
     "symbol": "xIZA",
     "name": "Staked IZA",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/xiza.png"
+    "logoURI": "images/token-list/xiza.png"
   },
   {
     "chainId": 1313161555,
@@ -29,7 +29,7 @@
     "symbol": "NEAR",
     "name": "Wrapped NEAR",
     "decimals": 24,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
+    "logoURI": "images/token-list/near.png"
   },
   {
     "chainId": 1313161555,
@@ -37,7 +37,7 @@
     "symbol": "USDC",
     "name": "USDC",
     "decimals": 6,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/usdc.png"
+    "logoURI": "images/token-list/usdc.png"
   },
   {
     "chainId": 1313161555,
@@ -45,7 +45,7 @@
     "symbol": "USDT",
     "name": "USDT",
     "decimals": 6,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/usdt.png"
+    "logoURI": "images/token-list/usdt.png"
   },
   {
     "chainId": 1313161555,
@@ -53,7 +53,7 @@
     "symbol": "AURORA",
     "name": "AURORA",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/aurora.png"
+    "logoURI": "images/token-list/aurora.png"
   },
   {
     "chainId": 1313161555,
@@ -61,6 +61,6 @@
     "symbol": "atUST",
     "name": "UST",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/ust.png"
+    "logoURI": "images/token-list/ust.png"
   }
 ]

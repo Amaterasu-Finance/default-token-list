@@ -5,7 +5,7 @@
     "symbol": "WETH",
     "name": "Wrapped ETH",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/eth.png"
+    "logoURI": "images/token-list/weth.png"
   },
   {
     "chainId": 1313161554,
@@ -13,7 +13,7 @@
     "symbol": "NEAR",
     "name": "Wrapped NEAR",
     "decimals": 24,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/near.png"
+    "logoURI": "images/token-list/near.png"
   },
   {
     "chainId": 1313161554,
@@ -21,7 +21,7 @@
     "symbol": "USDC",
     "name": "USDC",
     "decimals": 6,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/usdc.png"
+    "logoURI": "images/token-list/usdc.png"
   },
   {
     "chainId": 1313161554,
@@ -29,7 +29,7 @@
     "symbol": "USDT",
     "name": "USDT",
     "decimals": 6,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/usdt.png"
+    "logoURI": "images/token-list/usdt.png"
   },
   {
     "chainId": 1313161554,
@@ -37,7 +37,7 @@
     "symbol": "STNEAR",
     "name": "Staked NEAR",
     "decimals": 24,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/stnear.png"
+    "logoURI": "images/token-list/stnear.png"
   },
   {
     "chainId": 1313161554,
@@ -45,7 +45,7 @@
     "symbol": "AURORA",
     "name": "AURORA",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/aurora.png"
+    "logoURI": "images/token-list/aurora.png"
   },
   {
     "chainId": 1313161554,
@@ -53,7 +53,7 @@
     "symbol": "atLUNA",
     "name": "LUNA",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/luna.png"
+    "logoURI": "images/token-list/luna.png"
   },
   {
     "chainId": 1313161554,
@@ -61,7 +61,7 @@
     "symbol": "atUST",
     "name": "UST",
     "decimals": 18,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/ust.png"
+    "logoURI": "images/token-list/ust.png"
   },
   {
     "chainId": 1313161554,
@@ -69,6 +69,6 @@
     "symbol": "WBTC",
     "name": "Wrapped BTC",
     "decimals": 8,
-    "logoURI": "https://www.amaterasu.finance/images/token-list/wbtc.png"
+    "logoURI": "images/token-list/wbtc.png"
   }
 ]
