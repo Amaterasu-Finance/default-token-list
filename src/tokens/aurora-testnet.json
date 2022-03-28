@@ -9,7 +9,7 @@
   },
   {
     "chainId": 1313161555,
-    "address": "0xb82A2B57828f1127062A3B35aC470D2F55FF5eCD",
+    "address": "0x34696b6cE48051048f07f4cAfa39e3381242c3eD",
     "symbol": "IZA",
     "name": "Izanagi Token",
     "decimals": 18,
@@ -17,7 +17,7 @@
   },
   {
     "chainId": 1313161555,
-    "address": "0x19d8db04e69358F7211E4cf4e56F938101382556",
+    "address": "0x873b899AfbE96c5AFA575dcd6d3D9f7845Fd47DB",
     "symbol": "xIZA",
     "name": "Staked IZA",
     "decimals": 18,
