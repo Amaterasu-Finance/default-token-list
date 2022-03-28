@@ -9,6 +9,22 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0x0017Be3E7e36ABF49FE67a78D08bf465bB755120",
+    "symbol": "IZA",
+    "name": "Izanagi Token",
+    "decimals": 18,
+    "logoURI": "images/token-list/iza.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xff6f9e02c4c5FD956ad923cB2E6252F5a1BF0A8F",
+    "symbol": "xIZA",
+    "name": "Staked IZA",
+    "decimals": 18,
+    "logoURI": "images/token-list/xiza.png"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
     "symbol": "NEAR",
     "name": "Wrapped NEAR",
@@ -27,7 +43,7 @@
     "chainId": 1313161554,
     "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
     "symbol": "USDT",
-    "name": "USDT",
+    "name": "Tether USDT",
     "decimals": 6,
     "logoURI": "images/token-list/usdt.png"
   },
@@ -62,6 +78,46 @@
     "name": "UST",
     "decimals": 18,
     "logoURI": "images/token-list/ust.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "symbol": "AVAX",
+    "name": "AVAX - MultiChain",
+    "decimals": 18,
+    "logoURI": "images/token-list/avax.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "symbol": "BNB",
+    "name": "BNB - MultiChain",
+    "decimals": 18,
+    "logoURI": "images/token-list/bnb.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "symbol": "MATIC",
+    "name": "MATIC - MultiChain",
+    "decimals": 18,
+    "logoURI": "images/token-list/matic.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "symbol": "FTM",
+    "name": "FTM - MultiChain",
+    "decimals": 18,
+    "logoURI": "images/token-list/ftm.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x886DA0840Fd919228B3Bf09c59E774EFAecd187E",
+    "symbol": "ONE",
+    "name": "ONE - MultiChain",
+    "decimals": 18,
+    "logoURI": "images/token-list/one.png"
   },
   {
     "chainId": 1313161554,
