@@ -1,7 +1,6 @@
-# @VenomProtocol/venomswap-default-token-list
+# @AmaterasuFinance/amaterasufinance-default-token-list
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/VenomProtocol/venomswap-default-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@VenomProtocol/venomswap-default-token-list)](https://unpkg.com/@VenomProtocol/venomswap-default-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
 
