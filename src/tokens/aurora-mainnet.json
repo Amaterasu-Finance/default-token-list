@@ -25,6 +25,14 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
+    "symbol": "SHITZU",
+    "name": "Shitzu Token",
+    "decimals": 18,
+    "logoURI": "images/token-list/shitzu.png"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
     "symbol": "NEAR",
     "name": "Wrapped NEAR",
