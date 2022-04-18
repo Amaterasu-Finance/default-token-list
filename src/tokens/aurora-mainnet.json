@@ -25,6 +25,102 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+    "symbol": "TRI",
+    "name": "Trisolaris",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
+    "symbol": "xTRI",
+    "name": "xTRI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+    "symbol": "FLX",
+    "name": "Flux Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+    "symbol": "SOLACE",
+    "name": "Solace Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453",
+    "symbol": "META",
+    "name": "Meta Pool",
+    "decimals": 24,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
+    "symbol": "aUSDO",
+    "name": "aUSDO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x293074789b247cab05357b08052468B5d7A23c5a/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x6454e4a4891C6B78a5A85304d34558DDa5F3d6D8",
+    "symbol": "JUMBO",
+    "name": "Jumbo Exchange",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6454e4a4891C6B78a5A85304d34558DDa5F3d6D8/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
+    "symbol": "PLY",
+    "name": "Aurigami Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
+    "symbol": "WANNA",
+    "name": "WannaSwap",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7faA64Faf54750a2E3eE621166635fEAF406Ab22/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
+    "symbol": "XNL",
+    "name": "Chronicle",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7cA1C28663b76CFDe424A9494555B94846205585/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
+    "symbol": "BBT",
+    "name": "BlueBit Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xc2ac78FFdDf39e5cD6D83bbD70c1D67517C467eF",
+    "symbol": "GBA",
+    "name": "Golden Banana",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc2ac78FFdDf39e5cD6D83bbD70c1D67517C467eF/logo.png"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
     "symbol": "SHITZU",
     "name": "Shitzu Token",
