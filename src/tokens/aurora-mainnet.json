@@ -41,7 +41,7 @@
   },
   {
     "chainId": 1313161554,
-    "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+    "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
     "symbol": "FLX",
     "name": "Flux Token",
     "decimals": 18,
