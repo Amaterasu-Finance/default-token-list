@@ -25,6 +25,30 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0x19cc40283B057D6608C22F1D20F17e16C245642E",
+    "symbol": "RUSD",
+    "name": "Rose USD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970/logo.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970",
+    "symbol": "ROSE",
+    "name": "Rose Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970/logo.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xe3520349F477A5F6EB06107066048508498A291b",
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.png"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
     "symbol": "TRI",
     "name": "Trisolaris",
@@ -41,6 +65,14 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
+    "symbol": "BSTN",
+    "name": "Bastion Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
     "symbol": "FLX",
     "name": "Flux Token",
@@ -54,6 +86,14 @@
     "name": "Solace Token",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
+    "symbol": "LINEAR",
+    "name": "LiNEAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x918dBe087040A41b786f0Da83190c293DAe24749/logo.svg"
   },
   {
     "chainId": 1313161554,
