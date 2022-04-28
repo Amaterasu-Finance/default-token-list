@@ -137,6 +137,22 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2",
+    "symbol": "FRAX",
+    "name": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x5C92A4A7f59A9484AFD79DbE251AD2380E589783",
+    "symbol": "abBUSD",
+    "name": "BUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5C92A4A7f59A9484AFD79DbE251AD2380E589783/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
     "symbol": "XNL",
     "name": "Chronicle",
@@ -158,6 +174,22 @@
     "name": "Golden Banana",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc2ac78FFdDf39e5cD6D83bbD70c1D67517C467eF/logo.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E",
+    "symbol": "KSW",
+    "name": "KSW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "symbol": "MAI",
+    "name": "MAI",
+    "decimals": 18,
+    "logoURI": "images/token-list/mai.png"
   },
   {
     "chainId": 1313161554,
