@@ -81,6 +81,14 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0x5183e1B1091804BC2602586919E6880ac1cf2896",
+    "symbol": "USN",
+    "name": "USN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5183e1B1091804BC2602586919E6880ac1cf2896/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
     "symbol": "SOLACE",
     "name": "Solace Token",
@@ -179,7 +187,7 @@
     "chainId": 1313161554,
     "address": "0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E",
     "symbol": "KSW",
-    "name": "KSW",
+    "name": "KillSwitch Token",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E/logo.svg"
   },
