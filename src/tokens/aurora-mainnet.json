@@ -25,6 +25,14 @@
   },
   {
     "chainId": 1313161554,
+    "address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
+    "symbol": "PAD",
+    "name": "NearPad",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781/logo.svg"
+  },
+  {
+    "chainId": 1313161554,
     "address": "0x19cc40283B057D6608C22F1D20F17e16C245642E",
     "symbol": "RUSD",
     "name": "Rose USD",
