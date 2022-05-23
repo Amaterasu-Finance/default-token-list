@@ -1,6 +1,6 @@
 {
   "name": "@amaterasu-fi/default-token-list",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "description": "◦ The Amaterasu Finance default token list",
   "main": "build/amaterasu-default.tokenlist.json",
   "scripts": {
